@@ -1,0 +1,7 @@
+six==1.16.0
+numpy==1.22.0
+opencv-python-headless==4.5.5.64
+segmentation-models-pytorch==0.3.3
+timm==0.9.2
+tqdm==4.64.0
+yacs==0.1.8
